@@ -40,7 +40,7 @@ export default function Home() {
              <div className="flex gap-3">
             <a
             target="_blank"
-              href="https://klnaclk-my.sharepoint.com/:b:/g/personal/aberath-im20004_stu_kln_ac_lk/IQAbs1avDYA6TJV_P4GVN2ZpAQz-Xh-9w0stdMxCx79P5ew?e=XRZU2e"
+              href="https://drive.google.com/file/d/1wDJMjxpfavvs2bcvUbCkZ6BB1tkbSnJ0/view?usp=sharing"
               className="inline-flex items-center rounded-full border border-border bg-card px-5 py-2.5 text-sm font-medium text-card-foreground transition-colors hover:border-accent hover:bg-accent/10"
             >
               CV <i className="ph ph-file-arrow-down"></i>
