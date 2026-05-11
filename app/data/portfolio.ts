@@ -20,7 +20,7 @@ export const portfolioData = {
   role: "Full-Stack Developer",
   location: "Colombo, Sri Lanka",
   headline:
-    "I build reliable web apps with React and Next.js, from API integration to production-ready UI.",
+    "I build reliable web apps with user-friendly interfaces, and robust backend systems.",
   shortBio:
     "I focus on creating clean user experiences, scalable frontend architecture, and practical backend integrations.",
   email: "aberathnabimindu@gmail.com",
