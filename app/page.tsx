@@ -55,6 +55,8 @@ export default function Home() {
               {portfolioData.firstName}
               <span className="not-italic font-semibold text-black [-webkit-text-stroke:1.5px_white] [paint-order:stroke_fill]"> {portfolioData.lastName}</span>
             </h1>
+            <h1 className="fixed top-0 left-0 z-10 max-w-3xl text-4xl font-semibold leading-tight tracking-tight md:text-6xl pointer-events-none opacity-0 select-none
+            ">Bimindu Dashmika Aberathna</h1>
             <p className=" text-xl text-muted/90 text-right">
               Bachelor of Science Honours in Management and Information Technology
             </p>
